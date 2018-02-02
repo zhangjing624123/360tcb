@@ -1,16 +1,20 @@
 {
-  "name": "360tcbxm",
+  "name": "360tcb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjing624123/360tcb.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "ejs": "^2.5.7",
-    "express": "^4.16.2"
-  }
+  "bugs": {
+    "url": "https://github.com/zhangjing624123/360tcb/issues"
+  },
+  "homepage": "https://github.com/zhangjing624123/360tcb#readme"
 }
